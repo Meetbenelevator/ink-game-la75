@@ -1,4 +1,4 @@
-#  
+#  ink game new Script offers the most advanced ink game Script, with auto-heal and instant win. Perfect for dominating any match.
 
 
 
